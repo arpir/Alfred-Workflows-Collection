@@ -19,7 +19,7 @@ P.S.: You need to [buy the Powerpack](https://buy.alfredapp.com/) to use these w
   - [Colors：快速取色或按数值来预览颜色，支持RGB、HSL、HEX](https://github.com/TylerEich/Alfred-Extras)
   - [URL Schemes，搜索应用的URL Schemes。](https://rknight.me)
   - [KeyCodes，搜索按键的 KeyCode。](http://vitorgalvao.com/)
-  - Can I US：前端都知道。
+  - Can I USE：前端都知道。
 - 实用类
   - [Kill Process: 杀死进程](https://github.com/nathangreenstein/alfred-process-killer)
   - [Timer：计时器，计时结束会播放音乐。](http://dbader.org/blog/alfred-timer-extension)
